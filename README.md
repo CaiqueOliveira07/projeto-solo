@@ -1,4 +1,4 @@
 # projeto solo
  homenagem a um amigo
  
- <a href="https://caiqueoliveira07.github.io/projeto-solo/" target="_blank" >ABRIR PROJETO SOLO</a>
+<a href="https://caiqueoliveira07.github.io/projeto-solo/">ABRIR PROJETO SOLO</a>
