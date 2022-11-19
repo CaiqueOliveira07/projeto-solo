@@ -175,6 +175,7 @@ border-radius: 10px 10px 10px 10px  ;
 section#detroid > picture > img 
 {float: left;
 width: 300px;
+
 height: 300px;}
 
 section#detroid > picture > p  
@@ -184,8 +185,8 @@ font-style: oblique;
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
  
 section#detroid > div > video 
-{width: 350px;
-height: 350px;
+{width: 300px;
+height: 400px;
 background-position: center;
 margin: -20px;
 margin-bottom: -10px;
